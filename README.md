@@ -15,4 +15,4 @@ npm run build
 
 ### Screenshots
 
-![Screenshot](view.PNG)
+![Screenshot](view.png)
